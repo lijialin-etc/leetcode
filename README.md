@@ -38,3 +38,6 @@ leetcode前300热题题解, 持续更新中... 实现语言为java
 
 ## 动态规划
 [70.爬楼梯](https://github.com/lijialin-etc/leetcode/blob/master/%5B70%5D%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)<br/>
+
+## 树
+[98.验证二叉搜索树](https://github.com/lijialin-etc/leetcode/blob/master/%5B98%5D%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)<br/>
