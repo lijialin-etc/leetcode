@@ -2,7 +2,7 @@
 leetcode前300热题题解, 持续更新中... 实现语言为java
 
 ## 数据结构
-[146] LRU 缓存(https://github.com/lijialin-etc/leetcode/blob/master/%5B146%5D%20LRU%20%E7%BC%93%E5%AD%98.md)
+[146. LRU 缓存](https://github.com/lijialin-etc/leetcode/edit/master/%5B146%5D%20LRU%20%E7%BC%93%E5%AD%98.md)
 [217] 存在重复元素
 [20] 有效的括号
 [offter 09] 用两个栈实现队列
